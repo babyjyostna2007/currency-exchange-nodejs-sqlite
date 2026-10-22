@@ -1,0 +1,18 @@
+{
+    "name": "currency-exchange-project",
+    "version": "1.0.0",
+    "description": "Currency Exchange API using Node.js, Express.js and SQLite3",
+    "main": "backend/server.js",
+    "scripts": {
+        "start": "node backend/server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.6",
+        "express": "^5.2.1",
+        "sqlite3": "^5.1.7"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs"
+}
